@@ -1,0 +1,7 @@
+.hello{
+  color: darkorange;
+  background-color: blue;
+  font-family: 'Courier New', Courier, monospace;
+  border: 10px solid red;
+  border-radius: 5px;
+}
